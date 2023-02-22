@@ -4,6 +4,10 @@
 
 @layer components{
     .test-class{
-        @apply text-3xl font-bold underline;
+        @apply text-3xl font-bold underline text-center text-cyan-600;
+    }
+
+    .tech-stack-image{
+        @apply w-1/5 h-1/5 px-1 py-1 border-2 rounded-md bg-gray-700 border-gray-700 shadow-md;
     }
 }

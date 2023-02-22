@@ -1,0 +1,18 @@
+{
+    "contactData": [
+        {
+            "name": "GitHub",
+            "link": "https://github.com/a-fink/",
+            "src": ""
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/aubreyfinkelstein",
+            "src": ""
+        },{
+            "name": "Email",
+            "link": "mailto:aubreyfinkelstein@gmail.com",
+            "src": ""
+        }
+    ]
+}
