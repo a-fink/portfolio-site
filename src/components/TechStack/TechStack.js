@@ -12,7 +12,7 @@ function TechStack(){
                     <h3 className='my-2 py-2'>Proficient</h3>
                     <div className='tech-stack-container'>
                     {techProficient.map(el =>
-                        <img className='tech-stack-image' src={el.src} alt={el.name} title={el.name} aria-label={el.name} />
+                        <img className='tech-stack-image' src={el.src} key={el.id} alt={el.name} title={el.name} aria-label={el.name} />
                     )}
                     </div>
                 </div>
@@ -20,7 +20,7 @@ function TechStack(){
                 <h3 className='my-2 py-2'>Familiar</h3>
                     <div className='tech-stack-container'>
                     {techFamiliar.map(el =>
-                        <img className='tech-stack-image' src={el.src} alt={el.name} title={el.name} aria-label={el.name} />
+                        <img className='tech-stack-image' src={el.src} key={el.id} alt={el.name} title={el.name} aria-label={el.name} />
                     )}
                     </div>
                 </div>

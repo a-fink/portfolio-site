@@ -3,16 +3,19 @@
         {
             "name": "GitHub",
             "link": "https://github.com/a-fink/",
-            "src": ""
+            "src": "",
+            "id": "1"
         },
         {
             "name": "LinkedIn",
             "link": "https://www.linkedin.com/in/aubreyfinkelstein",
-            "src": ""
+            "src": "",
+            "id": "2"
         },{
             "name": "Email",
             "link": "mailto:aubreyfinkelstein@gmail.com",
-            "src": ""
+            "src": "",
+            "id": "3"
         }
     ]
 }

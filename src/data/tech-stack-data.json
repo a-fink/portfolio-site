@@ -2,81 +2,100 @@
     "proficient": [
         {
             "name": "JavaScript",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
+            "id": "1"
         },
         {
             "name": "Node.js",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+            "id": "2"
         },
         {
             "name": "HTML5",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+            "id": "3"
         },
         {
             "name": "CSS3",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+            "id": "4"
         },
         {
             "name": "React",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+            "id": "5"
         },
         {
             "name": "Redux Toolkit",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+            "id": "6"
         },
         {
             "name": "Express",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+            "id": "7"
         },
         {
             "name": "Sequelize",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg",
+            "id": "8"
         },
         {
             "name": "SQLite",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg",
+            "id": "9"
         },
         {
             "name": "Ubuntu",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
+            "id": "10"
         },
         {
             "name": "Git",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+            "id": "11"
         },
         {
             "name": "GitHub",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+            "id": "12"
         }
     ],
     "familiar": [
         {
             "name": "Java",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+            "id": "13"
         },
         {
             "name": "PostgreSQL",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+            "id": "14"
         },
         {
             "name": "Firebase",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+            "id": "15"
         },
         {
             "name": "Mocha.js",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg",
+            "id": "16"
         },
         {
             "name": "Next.js",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+            "id": "17"
         },
         {
             "name": "Bootstrap",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+            "id": "18"
         },
         {
             "name": "Tailwind",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+            "id": "19"
         }
     ]
 }
