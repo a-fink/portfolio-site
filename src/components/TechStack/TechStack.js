@@ -25,7 +25,7 @@ function TechStack(){
                     {techFamiliar.map(el =>
                         <div className='tech-stack-div' key={el.id}>
                         <img className='tech-stack-image' src={el.src} alt={el.name} title={el.name} aria-label={el.name} />
-                        <p className='text-center text-white'>{el.name}</p>
+                        <p className='text-center text-white text-sm'>{el.name}</p>
                     </div>
                     )}
                     </div>
