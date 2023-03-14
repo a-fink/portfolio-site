@@ -5,9 +5,9 @@ function TechStack(){
     const techFamiliar = techStack.familiar;
 
     return(
-        <div className='w-full bg-darkgray py-4 md:py-6 xl:py-12'>
-            <h1>My Tech Stack</h1>
-            <div className='flex flex-wrap gap-6 justify-center pt-2 mx-3 lg:mx-8 lg:gap-8 xl:gap-24'>
+        <div className='w-full bg-darkblue py-4 md:py-6 xl:py-8 scroll-mt-32 md:scroll-mt-24 xl:scroll-mt-14' id='tech-stack'>
+            <h2>My Tech Stack</h2>
+            <div className='mx-3 lg:mx-8 flex flex-wrap justify-center pt-2 gap-6 xl:gap-16'>
                 <div>
                     <h3 className='my-2 py-2'>Proficient</h3>
                     <div className='tech-stack-container'>

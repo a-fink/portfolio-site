@@ -6,8 +6,8 @@ module.exports = {
   ],
   theme: {
     screens:{
-      'sm': '400px',
-      'md': '550px',
+      'sm': '350px',
+      'md': '535px',
       'lg': '768px',
       'xl': '1024px',
       '2xl': '1280px',
@@ -15,9 +15,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        darkgray: '#16202D',
+        darkgray: '#0D121A',
         darkpurple: '#291E38',
-        darkblue: '#1B1A39'
+        darkblue: '#0C1334',
+        darkroyalblue: '#1B1A39',
+        darkteal: '#031F2B',
+        cyan: '#339af0'
       }
     },
   },
