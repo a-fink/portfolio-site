@@ -15,6 +15,9 @@ module.exports = {
     },
     extend: {
       colors: {
+        darkgray: '#1A2432',
+        darkpurple: '#291E38',
+        darkblue: '#1B1A39'
       }
     },
   },

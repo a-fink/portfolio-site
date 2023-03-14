@@ -8,7 +8,7 @@
     }
 
     #root{
-        @apply bg-gray-800 w-full flex justify-center;
+        @apply w-full flex justify-center;
     }
 
     h1{
@@ -20,7 +20,7 @@
     }
 
     .tech-stack-container{
-        @apply flex flex-wrap justify-center items-center gap-3 max-w-sm my-2;
+        @apply flex flex-wrap justify-center items-center gap-3 max-w-md my-2;
     }
 
     .tech-stack-div{
