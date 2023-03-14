@@ -4,21 +4,21 @@
             "name": "Smart Shopping List",
             "link": "https://drive.google.com/file/d/1r793pk_jfm6zQumqgbHqB69JPTdFgQZ5/view?usp=share_link",
             "description": "'Smart' shopping list application that learns user's buying habbits and reminds them of when items will next need to be purchased",
-            "techstack": "React, JavaScript, HTML, Tailwind, Firebase",
+            "techstack": "React, React Router, JavaScript, HTML, Tailwind, Firebase",
             "id": "1"
         },
         {
             "name": "Flags of the World",
             "link": "https://drive.google.com/file/d/1FeR36nTQ-B6de8ZJOni1KS2qeePiZ-qL/view?usp=share_link",
             "description": "Responsive single page application built with React. Integrates the REST Countries API to display country flags and inforamtion with searching and filtering options.",
-            "techstack": "React, JavaScript, HTML, CSS",
+            "techstack": "React, React Router, JavaScript, HTML, CSS",
             "id": "2"
         },
         {
             "name": "Authenticate Me",
             "link": "https://drive.google.com/file/d/105wU7W8XWuKUBzuxqmCVLNAZDJx5OzqY/view?usp=share_link",
             "description": "Full-Stack authentication workflow with account creation, log in, and log out functionality. Passwords are hashed and salted with bcrypt, and JSON web tokens (JWT) are used to ensure only logged in users can access protected enpoints.",
-            "techstack": "React, Redux Toolkit, JavaScript, HTML, Bootstrap, Node.js, Express, Sequelize, PostgreSQL",
+            "techstack": "React, React Router, Redux Toolkit, JavaScript, HTML, Bootstrap, Node.js, Express, Sequelize, PostgreSQL",
             "id": "3"
         },
         {
