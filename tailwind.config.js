@@ -20,7 +20,8 @@ module.exports = {
         darkblue: '#0C1334',
         darkroyalblue: '#1B1A39',
         darkteal: '#031F2B',
-        cyan: '#339af0'
+        cyan: '#339af0',
+        mediumgray: '#16202D'
       }
     },
   },
