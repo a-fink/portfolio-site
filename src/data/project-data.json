@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "Smart Shopping List",
-            "description": "'Smart' shopping list application that learns user's buying habbits and reminds them of when items will next need to be purchased",
+            "description": "'Smart' shopping list application that learns user's buying habits and reminds them of when items will next need to be purchased",
             "techstack": "React, React Router, JavaScript, HTML, Tailwind, Firebase",
             "github": "https://github.com/a-fink/smart-shopping-list",
             "live": "https://afink-smart-shopping-list.netlify.app/",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Flags of the World",
-            "description": "Responsive single page application built with React. Integrates the REST Countries API to display country flags and inforamtion with searching and filtering options.",
+            "description": "Responsive single page application built with React. Integrates the REST Countries API to display country flags and information with searching and filtering options.",
             "techstack": "React, React Router, JavaScript, HTML, CSS",
             "github": "https://github.com/a-fink/react-flags-project",
             "live": "https://flagsoftheworld-afink.netlify.app/",
