@@ -8,11 +8,13 @@ function NavBar(){
             <h1>Aubrey Finkelstein</h1>
             <div className='w-full xl:w-[55%] flex flex-wrap justify-center md:justify-evenly xl:justify-between gap-3'>
                 <ul className='flex items-center'>
-                    <li><a className='nav-link' href='#about-me'>About Me</a></li>
+                    <li><a className='nav-link' href='#about-me'>About</a></li>
                     <li>|</li>
-                    <li><a className='nav-link' href='#tech-stack'>Tech Stack</a></li>
+                    <li><a className='nav-link' href='#tech-stack'>Stack</a></li>
                     <li>|</li>
                     <li><a className='nav-link' href='#projects'>Projects</a></li>
+                    <li>|</li>
+                    <li><a className='nav-link' href='#contact'>Contact</a></li>
                 </ul>
                 <ul className='flex items-center gap-2'>
                     <li><a className='block graphic-link' href='https://www.linkedin.com/in/aubreyfinkelstein' target="_blank" rel="noreferrer"><img src={linkedinLogo} title='Connect via LinkedIn' alt='LinedIn' className='contact-link-image'/></a></li>
