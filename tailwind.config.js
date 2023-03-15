@@ -19,9 +19,12 @@ module.exports = {
         darkpurple: '#291E38',
         darkblue: '#0C1334',
         darkroyalblue: '#1B1A39',
-        darkteal: '#031F2B',
+        darkteal: '#051A32',
         cyan: '#339AF0',
-        mediumgray: '#16202D'
+        mediumgray: '#16202D',
+        mediumteal: '#0C2038',
+        bggray: '#19273D',
+        bgteal: '#0F243B'
       }
     },
   },

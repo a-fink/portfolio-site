@@ -47,10 +47,19 @@
     }
 
     .tech-stack-div{
-        @apply flex flex-col justify-center items-center w-20 h-20 sm:w-24 sm:h-24 px-1 py-1 border-2 rounded-md bg-slate-800 border-slate-800 shadow-md;
+        @apply flex flex-col justify-center items-center w-20 h-20 sm:w-24 sm:h-24 px-1 py-1 border-2 rounded-md bg-bggray border-bggray shadow-md;
     }
 
     .tech-stack-image{
         @apply w-10 h-10 sm:w-14 sm:h-14 lg:w-16 lg:h-16;
+    }
+
+    /* project styling */
+    .project-div{
+        @apply pt-4 pb-6 flex flex-col items-center justify-between gap-6 w-full max-w-lg bg-bgteal border-bgteal rounded-lg;
+    }
+
+    .project-screenshot{
+        @apply w-[90%] rounded-md;
     }
 }
