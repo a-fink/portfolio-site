@@ -26,76 +26,96 @@
             "id": "5"
         },
         {
+            "name": "Tailwind",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+            "id": "6"
+        },
+        {
             "name": "Redux Toolkit",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
-            "id": "6"
+            "id": "7"
         },
         {
             "name": "Express",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
-            "id": "7"
+            "id": "8"
         },
         {
             "name": "Sequelize",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg",
-            "id": "8"
+            "id": "9"
         },
         {
             "name": "SQLite",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg",
-            "id": "9"
+            "id": "10"
         },
         {
             "name": "Ubuntu",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
-            "id": "10"
+            "id": "11"
         },
         {
             "name": "Git",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
-            "id": "11"
+            "id": "12"
         },
         {
             "name": "GitHub",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
-            "id": "12"
+            "id": "13"
         }
     ],
     "familiar": [
         {
-            "name": "Java",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
-            "id": "13"
+            "name": "TypeScript",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+            "id": "14"
         },
         {
-            "name": "PostgreSQL",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-            "id": "14"
+            "name": "Java",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+            "id": "15"
         },
         {
             "name": "Firebase",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
-            "id": "15"
+            "id": "16"
+        },
+        {
+            "name": "MySQL",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+            "id": "17"
+        },
+        {
+            "name": "PostgreSQL",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+            "id": "18"
         },
         {
             "name": "Mocha.js",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg",
-            "id": "16"
+            "id": "19"
         },
         {
             "name": "Next.js",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
-            "id": "17"
+            "id": "20"
         },
         {
             "name": "Bootstrap",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-            "id": "18"
+            "id": "21"
         },
         {
-            "name": "Tailwind",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
-            "id": "19"
+            "name": "Sass",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+            "id": "22"
+        },
+        {
+            "name": "Material UI",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
+            "id": "23"
         }
     ]
 }
