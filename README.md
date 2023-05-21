@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![portfolio screenshot](https://user-images.githubusercontent.com/107282070/226146603-d2f5608c-d031-4ff3-af09-e45cff23d846.png)
+![website photo 5-21-2023](https://github.com/a-fink/portfolio-site/assets/107282070/c87142d5-d004-496a-86be-70025fd494c3)
 
 ## Live Site
 [Live Site](https://aubreyportfolio.netlify.app/)
