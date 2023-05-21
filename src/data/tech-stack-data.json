@@ -1,121 +1,122 @@
 {
-    "proficient": [
+    "languages": [
         {
             "name": "JavaScript",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
-            "id": "1"
+            "id": "language-1"
+        },{
+            "name": "TypeScript",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+            "id": "language-2"
         },
         {
             "name": "Node.js",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-            "id": "2"
-        },
-        {
-            "name": "HTML5",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-            "id": "3"
-        },
-        {
-            "name": "CSS3",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-            "id": "4"
-        },
-        {
-            "name": "React",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-            "id": "5"
-        },
-        {
-            "name": "Tailwind",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
-            "id": "6"
-        },
-        {
-            "name": "Redux Toolkit",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
-            "id": "7"
-        },
-        {
-            "name": "Express",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
-            "id": "8"
-        },
-        {
-            "name": "Sequelize",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg",
-            "id": "9"
-        },
-        {
-            "name": "SQLite",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg",
-            "id": "10"
-        },
-        {
-            "name": "Ubuntu",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
-            "id": "11"
-        },
-        {
-            "name": "Git",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
-            "id": "12"
-        },
-        {
-            "name": "GitHub",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
-            "id": "13"
-        }
-    ],
-    "familiar": [
-        {
-            "name": "TypeScript",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-            "id": "14"
+            "id": "language-3"
         },
         {
             "name": "Java",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
-            "id": "15"
+            "id": "language-4"
+        }
+    ],
+    "frontend": [
+        {
+            "name": "React",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+            "id": "frontend-1"
         },
         {
-            "name": "Firebase",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
-            "id": "16"
+            "name": "Redux Toolkit",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+            "id": "frontend-2"
         },
         {
-            "name": "MySQL",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
-            "id": "17"
+            "name": "HTML5",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+            "id": "frontend-3"
         },
         {
-            "name": "PostgreSQL",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-            "id": "18"
-        },
-        {
-            "name": "Mocha.js",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg",
-            "id": "19"
-        },
-        {
-            "name": "Next.js",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
-            "id": "20"
-        },
-        {
-            "name": "Bootstrap",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-            "id": "21"
+            "name": "CSS3",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+            "id": "frontend-4"
+        },{
+            "name": "Material UI",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
+            "id": "frontend-5"
         },
         {
             "name": "Sass",
             "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
-            "id": "22"
+            "id": "frontend-6"
         },
         {
-            "name": "Material UI",
-            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
-            "id": "23"
+            "name": "Tailwind",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+            "id": "frontend-7"
+        },
+        {
+            "name": "Bootstrap",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+            "id": "frontend-8"
+        },{
+            "name": "Next.js",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+            "id": "frontend-9"
+        }
+    ],
+    "backend": [
+        {
+            "name": "Express",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+            "id": "backend-1"
+        },
+        {
+            "name": "Sequelize",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg",
+            "id": "backend-2"
+        },
+        {
+            "name": "Firebase",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+            "id": "backend-3"
+        },
+        {
+            "name": "MySQL",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+            "id": "backend-4"
+        },
+        {
+            "name": "PostgreSQL",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+            "id": "backend-5"
+        },
+        {
+            "name": "SQLite",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg",
+            "id": "backend-6"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Git",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+            "id": "tools-1"
+        },
+        {
+            "name": "GitHub",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+            "id": "tools-2"
+        },
+        {
+            "name": "Ubuntu",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
+            "id": "tools-3"
+        },
+        {
+            "name": "Mocha.js",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg",
+            "id": "4"
         }
     ]
 }
