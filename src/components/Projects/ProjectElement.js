@@ -1,10 +1,9 @@
 import shoppingListScreenshot from '../../images/shopping-list-screenshot.png';
 import flagsScreenshot from '../../images/flags-screenshot.png';
-import authenticateMeScreenshot from '../../images/login-screenshot.png';
 import calculatorScreenshot from '../../images/calculator-screenshot.png';
 
 function ProjectElement({project}){
-    const images = [shoppingListScreenshot, flagsScreenshot, authenticateMeScreenshot, calculatorScreenshot];
+    const images = [shoppingListScreenshot, flagsScreenshot, calculatorScreenshot];
 
     return(
         <>
