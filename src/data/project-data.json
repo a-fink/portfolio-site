@@ -17,20 +17,12 @@
             "id": "2"
         },
         {
-            "name": "Authenticate Me",
-            "description": "Full-Stack authentication workflow with account creation, log in, and log out functionality. Implements bcrypt hashing and salting, and JSON web tokens (JWT).",
-            "techstack": "React, React Router, Redux Toolkit, JavaScript, HTML, Bootstrap, Node.js, Express, Sequelize, PostgreSQL",
-            "github": "https://github.com/a-fink/authenticate-me",
-            "live": "https://authenticate-me.herokuapp.com/",
-            "id": "3"
-        },
-        {
             "name": "Tip Split Calculator",
             "description": "Responsive calculator application built with React. Calculates tip based on percentage or custom input value. Splits tip and bill total out per person.",
             "techstack": "React, JavaScript, HTML, CSS",
             "github": "https://github.com/a-fink/tip-calculator",
             "live": "https://a-fink.github.io/tip-calculator/",
-            "id": "4"
+            "id": "3"
         }
     ]
 }
